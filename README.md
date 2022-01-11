@@ -1,1 +1,1 @@
-# Exemplo de estados globais com redu
+## Exemplo de estados globais com redux
